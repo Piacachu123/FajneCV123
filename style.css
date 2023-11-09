@@ -1,19 +1,9 @@
-body{
-    background-color: aliceblue;
-    font-style: unset;}
-    
 
-
-header{
-    padding: 10px 700px 20px 700px; 
-    
-}
-img{
-    width: 100px;
-    height: 100px;
-    padding: 5px 220px 5px 220px;
-}
-
-h2{
-    padding: 0px 200px 0px 200px;
+@media (max-width: 768px) {
+   
+    h2 {
+        font-size: 24px;
+    }
+    #mojeumiejetnosci, #mojedoswiadczenie, #czegonauczyc, #cowprzyszlosci {
+        padding: 10px; 
 }
